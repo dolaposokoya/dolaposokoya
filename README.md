@@ -15,11 +15,7 @@
 [bloodbank website]: https://github.com/dolaposokoya/blood-bank-website.git
 [react]: http://reactjs.org
 [website]: https://adedolaposokoya.netlify.app/
-[reactnative]: https://reactnative.dev/
-
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
+[reactnative]: https://reactnative.dev
 [twitter]: https://twitter.com/dolexy_one
 [email]: dolaposokoya@gmail.com
 
