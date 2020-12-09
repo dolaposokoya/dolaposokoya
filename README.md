@@ -4,7 +4,8 @@
  - 👨🏼‍💻 💻 building [bloodbankwebsite][bloodbank website]
  - 👯 I’m looking to collaborate on [bloodbank website]
  - 💜 loving [react][react]  **|**  [reactnative][reactnative]
- 
+ - 😄 Pronouns: he/him
+ - 📫 How to reach me: [email]
  
  🏡 [website][website] **|** 
  🐦 [twitter][twitter] **|**
@@ -16,6 +17,7 @@
 [website]: https://adedolaposokoya.netlify.app/
 [reactnative]: https://reactnative.dev/
 [twitter]: https://twitter.com/dolexy_one
+[email]: dolaposokoya@gmail.com
 
 <!--
 
