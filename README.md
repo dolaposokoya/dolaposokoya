@@ -5,7 +5,7 @@
  - 👯 I’m looking to collaborate on [bloodbank website]
  - 💜 loving [react][react]  **|**  [reactnative][reactnative]
  - 😄 Pronouns: he/him
- - 📫 How to reach me: [email]
+ - 📫 How to reach me: dolaposokoya97@gmail.com
  
  🏡 [website][website] **|** 
  🐦 [twitter][twitter] **|**
