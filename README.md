@@ -1,7 +1,12 @@
 ### Hi, I'm Dolapo Sokoya 👋 
-### 🧑🏾 I'm a software developer at Morpheme Webnexus, I work as back-end developer primarily and front-end developer sometimes
-## 🔭 I’m currently working on a personal project which is a bloodbank website which allows people residing in a country to donate and receive blood
+####  🧑🏾 Currently working as asoftware developer at Morpheme Webnexus, I work as back-end developer primarily and front-end developer sometimes
 
+
+👨🏼‍💻 building [bloodbankwebsite][bloodbankwebsite]  
+
+
+
+[bloodbankwebsite]: https://web-bloodbank.netlify.app
 <!--
 
 Here are some ideas to get you started:
