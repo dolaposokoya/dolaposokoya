@@ -11,6 +11,10 @@
 [bloodbank website]: https://github.com/dolaposokoya/blood-bank-website.git
 [react]: http://reactjs.org
 [reactnative]: https://reactnative.dev/
+<i class="ri-twitter-fill"></i>
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
 <!--
 
 Here are some ideas to get you started:
