@@ -1,8 +1,8 @@
 ### Hi, I'm Dolapo Sokoya 👋 
-####  🧑🏾 Currently working as a Software developer at Morpheme Webnexus, I work as back-end developer primarily and front-end developer sometimes
+##  🧑🏾 Currently working as a Software developer at Morpheme Webnexus, I work as back-end developer primarily and front-end developer sometimes
 __________________________________________________________________________________________________________________________________________________
 
- - 👨🏼‍💻 💻 building [bloodbankwebsite][bloodbankwebsite]
+ - 👨🏼‍💻 💻 building [bloodbankwebsite][bloodbank website]
  - 👯 I’m looking to collaborate on [bloodbank website]
  - 💜 loving [react][react]  **|**  [reactnative][reactnative]
  
