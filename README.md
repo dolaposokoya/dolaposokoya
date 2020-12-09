@@ -18,7 +18,6 @@
 [reactnative]: https://reactnative.dev/
 [twitter]: https://twitter.com/dolexy_one
 [email]: dolaposokoya@gmail.com
-[dolaposokoya]
 
 
 
