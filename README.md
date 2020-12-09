@@ -1,11 +1,11 @@
-### Hi, I'm Dolapo Sokoya 👋 &#57348;
+### Hi, I'm Dolapo Sokoya 👋 🧑🏾
 
 <!--
 **dolaposokoya/dolaposokoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a bloodbank webssite which allows people residing in a country to donate and receive blood
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
