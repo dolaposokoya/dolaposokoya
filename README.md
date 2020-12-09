@@ -21,7 +21,7 @@
 
 
 
-⭐️ From [dolaposokoya](https://github.com/AVS1508)
+⭐️ From [dolaposokoya](https://github.com/dolaposokoya)
 <!--
 
 Here are some ideas to get you started:
