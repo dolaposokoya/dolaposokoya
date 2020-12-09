@@ -7,9 +7,7 @@
  
  
  🏡 [website][website] **|** 
- 🐦 [twitter][twitter] **|** 
- 📷 [instagram][instagram] **|** 
- 👔 [linkedin][linkedin]
+ 🐦 [twitter][twitter] **|**
 
 
 [bloodbankwebsite]: https://web-bloodbank.netlify.app
