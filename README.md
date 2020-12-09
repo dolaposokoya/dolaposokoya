@@ -1,8 +1,8 @@
-### Hi, I'm Dolapo Sokoya 👋 🧑🏾
-
+### Hi, I'm Dolapo Sokoya 👋 
+### 🧑🏾 I'm a software developer at Morpheme Webnexus, I work as back-end developer primarily and front-end developer sometimes
+## 🔭 I’m currently working on a personal project which is a bloodbank website which allows people residing in a country to donate and receive blood
 
 <!--
-**dolaposokoya/dolaposokoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
