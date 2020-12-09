@@ -2,13 +2,16 @@
 ####  🧑🏾 Currently working as a Software developer at Morpheme Webnexus, I work as back-end developer primarily and front-end developer sometimes
 __________________________________________________________________________________________________________________________________________________
 
- - 👨🏼‍💻 💻 building [bloodbankwebsite][bloodbankwebsite] **|** 
- - 💜 loving [react][react]  **|** 
+ - 👨🏼‍💻 💻 building [bloodbankwebsite][bloodbankwebsite]
+ - 👯 I’m looking to collaborate on [bloodbank website]
+ - 💜 loving [react][react]  **|**  [reactnative][reactnative]
  
 
 
 [bloodbankwebsite]: https://web-bloodbank.netlify.app
+[bloodbank website]: https://github.com/dolaposokoya/blood-bank-website.git
 [react]: http://reactjs.org
+[reactnative]: https://reactnative.dev/
 <!--
 
 Here are some ideas to get you started:
