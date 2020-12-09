@@ -26,7 +26,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dolaposokoya&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolaposokoya&theme=buefy&layout=compact" />
 </a>
-⭐️ From [dolaposokoya](https://github.com/dolaposokoya)
+
+
 <!--
 
 Here are some ideas to get you started:
