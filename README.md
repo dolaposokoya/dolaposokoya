@@ -17,7 +17,7 @@
 [website]: https://adedolaposokoya.netlify.app/
 [reactnative]: https://reactnative.dev
 [twitter]: https://twitter.com/dolexy_one
-[email]: dolaposokoya@gmail.com
+[email]: phritetech@gmail.com
 
 <a href="https://github.com/dolaposokoya">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dolaposokoya&theme=buefy&show_icons=true" />
