@@ -1,6 +1,5 @@
 ### Hi, I'm Dolapo Sokoya 👋 
-##  🧑🏾 I'm a Freelance Software developer, I work as back-end developer primarily and front-end developer sometimes
-
+##  🧑🏾 I'm a Freelance Full-stack developer
  - 👨🏼‍💻 💻 building [bloodbankwebsite][bloodbank website]
  - 👯 I’m looking to collaborate on [bloodbank website]
  - 💜 loving [react][react]  **|**  [reactnative][reactnative]
