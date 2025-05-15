@@ -12,7 +12,7 @@
   <br>
   🎯 Lifelong learner, always exploring new tools and technologies to solve real-world problems — one dataset and product at a time.
   <br>
-  📧 Email Me: [phritetech@gmail.com](mailto:phritetech@gmail.com)
+    📧 Email Me: <a href="mailto:phritetech@gmail.com">phritetech@gmail.com</a>
 </p>
 
 ###
