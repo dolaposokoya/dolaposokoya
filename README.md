@@ -83,6 +83,10 @@
 
 ###
 
+### Contact Me
+
+[Email Me](mailto:phritetech@gmail.com)
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/dolaposokoya/dolaposokoya/output/snake.svg" alt="Snake animation" />
