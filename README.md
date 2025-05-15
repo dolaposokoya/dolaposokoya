@@ -11,6 +11,8 @@
   • 📊 Love working with data to uncover actionable insights<br>
   <br>
   🎯 Lifelong learner, always exploring new tools and technologies to solve real-world problems — one dataset and product at a time.
+  <br>
+  📧 Email Me: [phritetech@gmail.com](mailto:phritetech@gmail.com)
 </p>
 
 ###
