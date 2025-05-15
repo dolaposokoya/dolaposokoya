@@ -1,6 +1,4 @@
-<h2 align="left">Hi 👋, I'm Adedolapo Sokoya — a Software Engineer from London.
-I'm passionate about building intelligent systems that turn data into actionable insights.
-As a Machine Learning enthusiast and lifelong learner, I enjoy solving real-world problems — one dataset at a time.</h2>
+<h2 align="left">Hi 👋, I'm Adedolapo Sokoya</h2>
 
 ###
 
