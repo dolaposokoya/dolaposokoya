@@ -1,5 +1,18 @@
 <h4 align="left">Hi 👋! My name is Adedolapo Sokoya, and I'm a Software Engineer from London</h4>
 
+<p align="left">
+  I'm a <strong>Software Engineer</strong> passionate about building intelligent systems that turn data into insights.<br>
+  <br>
+  💡 <strong>What I Do</strong><br>
+  • 🧠 Machine Learning & AI enthusiast<br>
+  • 🛠️ Build <strong>robust APIs</strong> and scalable backends<br>
+  • 📱 Develop <strong>mobile applications</strong><br>
+  • 🌐 Create <strong>modern web applications</strong><br>
+  • 📊 Love working with data to uncover actionable insights<br>
+  <br>
+  🎯 Lifelong learner, always exploring new tools and technologies to solve real-world problems — one dataset and one product at a time.
+</p>
+
 ###
 
 <div align="center">
